@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 🛠️ Setup Instructions
+
+### 1. Install Dependencies
+
+Before starting the development server, install the required npm packages:
+
+```bash
+npm install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
